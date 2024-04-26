@@ -1,0 +1,70 @@
+be sa normal
+window 0,0,2,79 black on white 
+rowcol 1,1 "  ® 01 System ¯  " Black 
+rowcol 3,0 
+printchar "°" 80 bright white on black explode 
+rowcol 21,0 
+printchar "°" 80 bright white on black explode 
+rowcol 4,0 
+printchar "°" 80 bright white on black explode 
+rowcol 20,0 
+printchar "°" 80 bright white on black explode 
+rowcol 5,0 
+printchar "°" 80 bright white on black explode 
+rowcol 19,0 
+printchar "°" 80 bright white on black explode 
+rowcol 6,0 
+printchar "°" 80 bright white on black explode 
+rowcol 18,0 
+printchar "°" 80 bright white on black explode 
+rowcol 7,0 
+printchar "°" 80 bright white on black explode 
+rowcol 17,0 
+printchar "°" 80 bright white on black explode 
+rowcol 8,0 
+printchar "°" 80 bright white on black explode 
+rowcol 16,0 
+printchar "°" 80 bright white on black explode 
+rowcol 9,0 
+printchar "°" 80 bright white on black explode 
+rowcol 15,0 
+printchar "°" 80 bright white on black explode 
+rowcol 10,0 
+printchar "°" 80 bright white on black explode 
+rowcol 14,0 
+printchar "°" 80 bright white on black explode 
+rowcol 11,0 
+printchar "°" 80 bright white on black explode 
+rowcol 13,0 
+printchar "°" 80 bright white on black explode 
+rowcol 12,0 
+printchar "°" 80 bright white on black explode 
+
+window 3,22,14,57 bright white on black explode shadow
+rowcol 4,27 "¯ SYSTEM OBSœUGI FIRMY ®"
+rowcol 5,22 "Ì"
+printchar "Í" 35
+rowcol 5,57 "¹"
+rowcol  6,23 "³ 1. SPRZEDAZ" WHITE
+rowcol  7,23 "³ C. ARCHIWUM 01S " WHITE
+rowcol  8,23 "³ P. ARCHIWUM ZUZIA PL 2007" white
+rowcol  9,23 "³ Z. ARCHIWUM ZUZIA PL ALL" white
+rowcol 10,23 "³ D. ARCHIWUM ZUZIA Daga ALL" white
+rowcol 11,23 "³ S. STARY PROGRAM" white
+rowcol 12,23 "³ A. " white
+rowcol 13,23 "³ K. K O N I E C" white
+
+
+rowcol  6,25 "1" bright white
+rowcol  7,25 "C" bright white
+rowcol  8,25 "P" bright white
+rowcol  9,25 "Z" bright white
+rowcol 10,25 "D" bright white
+rowcol 11,25 "S" bright white
+rowcol 12,25 "A" bright white
+rowcol 13,25 "K" bright white
+
+
+window 22,0,24,79 white on black 
+rowcol 23,2 "Wyb¢r - przez nacižni‘cie odpowiedniej cyfry ..."
+
